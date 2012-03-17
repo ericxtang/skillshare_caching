@@ -3,8 +3,4 @@
 Code examples for my introuctory caching class
 
 == Requirements
-Ruby
-Sinatra
-Mongo
-Memcached
-Varnish
+Ruby, Sinatra, Mongo, Memcached, Varnish
